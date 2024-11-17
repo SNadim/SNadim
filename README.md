@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [BidNest](https://github.com/SNadim/BidNest)
 
-- 🌱 I’m currently learning **MERN,ASP.NET**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://nadim-portfolio.netlify.app/](https://nadim-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN, MYSQL, SQL, ASP.NET**
+- 💬 Ask me about **MYSQL, SQL, ASP.NET**
 
 - 📫 How to reach me **shariarnadim21@gmail.com**
 
