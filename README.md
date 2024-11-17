@@ -1,4 +1,4 @@
-[![MasterHead](https://wpwebtec.com/wp-content/uploads/2019/07/web-development-banner.jpg)]
+[![MasterHead]([https://wpwebtec.com/wp-content/uploads/2019/07/web-development-banner.jpg](https://mir-s3-cdn-cf.behance.net/project_modules/fs/ef53af44172321.5809948153699.gif))]
 <h1 align="center">Hi 👋, I'm Shariar Nadim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snadim&label=Profile%20views&color=0e75b6&style=flat" alt="snadim" /> </p>
 
-- 🔭 I’m currently working on [BidNest](https://github.com/SNadim/BidNest)
+- 🔭 I’m currently working on [Othoba]([https://github.com/SNadim/BidNest](https://gitlab.com/sinamispran/othoba_451))
 
 - 🌱 I’m currently learning **ASP.NET**
 
