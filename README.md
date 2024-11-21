@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on [Othoba]([https://github.com/SNadim/BidNest](https://gitlab.com/sinamispran/othoba_451))
 
+- [GitLab](https://gitlab.com/shariarnadim21)
+
 - 🌱 I’m currently learning **ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://nadim-portfolio.netlify.app/](https://nadim-portfolio.netlify.app/)
