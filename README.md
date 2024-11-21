@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Othoba]([https://github.com/SNadim/BidNest](https://gitlab.com/sinamispran/othoba_451))
 
-- [GitLab](https://gitlab.com/shariarnadim21)
+- 🚀 [GitLab](https://gitlab.com/shariarnadim21)
 
 - 🌱 I’m currently learning **ASP.NET**
 
